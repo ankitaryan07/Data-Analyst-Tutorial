@@ -13,9 +13,9 @@
 
 | Link | Purpose |
 |------|---------|
-| **[📖 Live Platform](https://ankitaryan07.github.io/data-analyst-tutorial/)** | Access the complete learning platform |
-| **[💡 Topics & Curriculum](https://ankitaryan07.github.io/data-analyst-tutorial/)** | Browse all 99 topics |
-| **[📊 Progress Tracker](https://ankitaryan07.github.io/data-analyst-tutorial/)** | Track your learning journey |
+| **📖 Live Platform** | Access after enabling GitHub Pages (Settings → Pages) |
+| **💡 Topics & Curriculum** | Open `index.html` in your browser |
+| **📊 Progress Tracker** | Built-in feature - saves locally |
 
 ---
 
@@ -46,9 +46,12 @@ Phase 6: Advanced Techniques [ML Basics, Time Series, Real-world Case Studies]
 ## 🚀 Getting Started
 
 ### Online (Recommended)
-Just visit → **[data-analyst-tutorial Live](https://ankitaryan07.github.io/data-analyst-tutorial/)**
+1. Go to Settings → Pages (right side of your repo)
+2. Enable GitHub Pages (Deploy from main branch)
+3. After 1-2 minutes, your URL will be: `https://yourusername.github.io/data-analyst-tutorial/`
+4. Share that link - no installation needed!
 
-No installation needed. Works in any modern browser.
+Works in any modern browser (Chrome, Firefox, Safari, Edge).
 
 ### Offline (Local Machine)
 
@@ -200,11 +203,11 @@ git push origin feature/add-new-topics
 
 ## 📞 Support & Feedback
 
-| Need Help? | Contact |
-|------------|---------|
-| **Bug Report** | [GitHub Issues](https://github.com/ankitaryan07/data-analyst-tutorial/issues) |
-| **Feature Request** | [GitHub Discussions](https://github.com/ankitaryan07/data-analyst-tutorial/discussions) |
-| **Direct Message** | ankitaryan07 |
+| Need Help? | How To |
+|------------|-------|
+| **Bug Report** | Go to Issues tab in your GitHub repo and create a new issue |
+| **Feature Request** | Use Discussions tab or create an issue with [Feature] tag |
+| **Questions?** | Check the project documentation or review quiz answers |
 
 ---
 
@@ -288,10 +291,10 @@ Permission is granted to use, modify, and distribute freely.
 
 ## 🔗 Resources & Links
 
-- **[GitHub Repository](https://github.com/ankitaryan07/data-analyst-tutorial)**
-- **[Live Platform](https://ankitaryan07.github.io/data-analyst-tutorial/)**
-- **[Report a Bug](https://github.com/ankitaryan07/data-analyst-tutorial/issues)**
-- **[Suggest a Feature](https://github.com/ankitaryan07/data-analyst-tutorial/discussions)**
+- **GitHub Repository** — This project (open index.html to start)
+- **Live Platform** — Will be available at `your-username.github.io/data-analyst-tutorial/` (after GitHub Pages setup)
+- **Report Issues** — Use the Issues tab in your GitHub repo
+- **Suggest Features** — Use the Discussions tab or Issues with [Feature] tag
 
 ---
 
@@ -337,7 +340,13 @@ Permission is granted to use, modify, and distribute freely.
 
 ## 🎉 Get Started Now!
 
-👉 **[Open Learning Platform](https://ankitaryan07.github.io/data-analyst-tutorial/)**
+### Quick Start:
+1. Download this repository (green "Code" button → Download ZIP)
+2. Extract the folder
+3. Open `index.html` in your browser
+4. Start learning! 🚀
+
+**OR** wait 2 minutes for GitHub Pages setup above, then access online.
 
 No signup needed. No ads. No distractions. Just learning.
 
