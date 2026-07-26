@@ -13,9 +13,9 @@
 
 | Link | Purpose |
 |------|---------|
-| **📖 Live Platform** | Access after enabling GitHub Pages (Settings → Pages) |
-| **💡 Topics & Curriculum** | Open `index.html` in your browser |
-| **📊 Progress Tracker** | Built-in feature - saves locally |
+| **[📖 Live Platform](#online-recommended)** | Access online after GitHub Pages setup |
+| **[💡 Topics & Curriculum](#getting-started)** | Browse all 99 topics |
+| **[📊 Progress Tracker](#how-to-use)** | Track your learning journey |
 
 ---
 
@@ -373,5 +373,5 @@ If this project helped you, please give it a **⭐ on GitHub**!
 
 ---
 
-**Last Updated:** July 2024 | **Version:** 1.0.0 | **Status:** Active & Maintained
+**Last Updated:** July 2026 | **Version:** 1.0.0 | **Status:** Active & Maintained
 
